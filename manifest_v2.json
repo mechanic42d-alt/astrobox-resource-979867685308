@@ -1,0 +1,56 @@
+{
+  "item": {
+    "id": "979867685308",
+    "restype": "watchface",
+    "name": "机械时叙",
+    "description": "把时间交给一台小小的机械写字机。\n\n笔尖沿着导轨移动，在纸面上一笔一画写下时刻。顶部墨水仓显示剩余电量，底部留下今天的日期。\n\n白天与夜晚有不同的纸面氛围，点击纸面可以和机械笔互动。遇到特定的节日、天气或时间，它还可能悄悄画下一个小惊喜。\n\n- 抬腕亮屏，机械笔会在纸面上写出时间。\n- 顶部墨水仓显示手环电量，纸面底部显示日期。\n- 点击纸面，可以触发机械笔的互动。\n- 夜间点击顶部墨水仓区域，可以体验夜间舞台效果。\n- 部分节日、天气和深夜时段会出现特别画面。具体效果取决于时间、设备数据和触发条件。",
+    "preview": [
+      "media/机械时叙-竖版介绍.png",
+      "media/03-夜间 DJ.webp",
+      "media/05-深夜来信.png",
+      "media/03-夜间DJ.png",
+      "media/04-节日与倒数.png",
+      "media/01-日夜切换.webp",
+      "media/02-节日彩蛋.webp",
+      "media/05-机械臂的脾气.webp"
+    ],
+    "icon": "media/download-3.png",
+    "cover": "media/头图.jpg",
+    "author": [
+      {
+        "name": "914173667",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "使用说明",
+      "url": "https://www.xiaohongshu.com/explore/6afac54c0000000023011e29?xsec_token=ABcr30m3iVHOI1c5ebCDTa-AQmjN9aCj1_DdRDh7OEIqE=&xsec_source=pc_user",
+      "icon": "book"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "0.9.0",
+      "file_name": "downloads/机械时叙.bin",
+      "versionCode": 2304
+    },
+    "xmb10nfc": {
+      "version": "0.9.0",
+      "file_name": "downloads/机械时叙.bin",
+      "versionCode": 2304
+    },
+    "xmb11": {
+      "version": "0.9.0",
+      "file_name": "downloads/机械时叙.bin",
+      "versionCode": 2304
+    },
+    "xmb11nfc": {
+      "version": "0.9.0",
+      "file_name": "downloads/机械时叙.bin",
+      "versionCode": 2304
+    }
+  },
+  "ext": {}
+}
